@@ -93,6 +93,8 @@ Visual outputs include real-time streaming line graphs showing:
 [Click here to watch the demo video](https://drive.google.com/file/d/1dn_2PqVTWyPxcJyBNTFSMVfuSiroWM1V/view?usp=sharing)
 
 
+[![Watch Demo on YouTube](https://img.youtube.com/vi/IqdMxmYXx48/0.jpg)](https://youtu.be/IqdMxmYXx48)
+
 ---
 
 ## 🔮 Future Improvements
