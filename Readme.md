@@ -17,7 +17,48 @@ The solution extends beyond a simple pricing model by incorporating spatial awar
 - 📃 Enrichment of datasets with model-generated prices for comparative studies.
 
 ---
+## 🏗 Architecture Diagram
 
+```mermaid
+flowchart TD
+    A[Parking Lot CSV Data] --> B[Pathway Streaming Engine]
+    B --> C[Time Feature Extraction & Price Calculation]
+    C --> D[Real-time Price Stream]
+    D --> E[Interactive Bokeh Plot]
+    C --> F[Enriched CSV Dataset with Model Prices]
+    F --> G[Further Analysis / ML Models]
+```
+
+---
+
+## 🔄 Project Architecture & Workflow
+
+1. **Data Preparation:**
+   - CSV files for each parking lot containing `Timestamp`, `Occupancy`, and `Capacity`.
+
+2. **Streaming Setup:**
+   - Use Pathway's `replay_csv` to simulate real-time data streams for each parking lot.
+
+3. **Time Feature Engineering:**
+   - Extract datetime and day-level information for temporal grouping.
+
+4. **Dynamic Price Calculation:**
+   - Apply baseline pricing model: `price = 10 + (Occupancy / Capacity)`.
+   - Optionally, factor in competitor prices and traffic/vehicle weightings.
+
+5. **Visualization:**
+   - Display real-time price trends using **Bokeh** in a **Panel** dashboard.
+
+6. **Competitor Analysis:**
+   - Identify neighboring parking lots within a 1km radius and compute average competitor pricing and occupancy.
+
+7. **Enriched Dataset:**
+   - Save enhanced datasets with generated prices for each timestamp.
+
+8. **Optional:**
+   - Further model development for advanced pricing using ML, traffic, and event-based factors.
+
+---
 ## 🗂 Project Structure
 
 ```
