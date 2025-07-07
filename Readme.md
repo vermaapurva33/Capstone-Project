@@ -150,7 +150,7 @@ Visual outputs include real-time streaming line graphs showing:
 
 ## 👤 Author
 
-- **Your Name**  
+- **APURVA VERMA**  
 - [LinkedIn](https://www.linkedin.com/in/apurva-verma-04aab1318) | [GitHub](https://github.com/vermaapurva33)
 
 ---
