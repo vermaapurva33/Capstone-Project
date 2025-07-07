@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 3. **Alternatively open the notebook directly in Google Colab:**
 
-[![Open In Colab](https://colab.research.google.com/drive/1aRJvoFSmb1ybCk5BkEvR9OuLa_fhJmoc?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aRJvoFSmb1ybCk5BkEvR9OuLa_fhJmoc?usp=sharing)
 
 ---
 
