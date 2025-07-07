@@ -88,6 +88,10 @@ Visual outputs include real-time streaming line graphs showing:
 - Occupancy ratio trends over time.
 
 ![Example Visualization](visuals/example_plot.png)
+## 🎥 Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1dn_2PqVTWyPxcJyBNTFSMVfuSiroWM1V/view?usp=sharing)
+
 
 ---
 
