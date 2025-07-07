@@ -87,7 +87,9 @@ Visual outputs include real-time streaming line graphs showing:
 - Competitor parking lot comparisons.
 - Occupancy ratio trends over time.
 
-![Example Visualization](visuals/example_plot.png)
+![Example Visualization](/visuals/model1_sample_graph.png)
+![Example Visualization](/visuals/model2_sample_graph..png)
+![Example Visualization](/visuals/model3_sample_graph..png)
 ## 🎥 Demo Video
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1dn_2PqVTWyPxcJyBNTFSMVfuSiroWM1V/view?usp=sharing)
