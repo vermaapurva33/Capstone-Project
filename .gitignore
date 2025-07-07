@@ -1,0 +1,27 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore data files if necessary (uncomment if you don't want to push datasets)
+# /data/
+
+# Ignore virtual environments (optional)
+venv/
+.env/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Colab temporary files
+*.ipynb~
+
+# Ignore VS Code settings (optional)
+.vscode/
