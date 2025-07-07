@@ -44,8 +44,8 @@ The solution extends beyond a simple pricing model by incorporating spatial awar
 
 1. **Clone this repository:**
 ```bash
-git clone https://github.com/yourusername/Dynamic-Parking-Pricing.git
-cd Dynamic-Parking-Pricing
+git clone https://github.com/vermaapurva33/Capstone-Project.git
+cd Capstone-Project
 ```
 
 2. **Install required dependencies:**
